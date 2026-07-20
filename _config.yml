@@ -1,0 +1,27 @@
+# GitHub Pages Configuration
+# このファイルをリポジトリ根に配置
+
+# GitHub Pagesの公開ブランチ: main
+# 公開ディレクトリ: /dist
+
+# サイト設定
+title: ふじみ地区自治会等連合会
+description: 「奥深大寺」調布市北部地域で環境、安全、福祉、地域交流をテーマに活動しています。
+url: https://fujimijichirengo-crypto.github.io/news
+baseurl: /news
+
+# テーマ
+theme: 
+
+# プラグイン
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ビルド設定
+markdown: kramdown
+exclude:
+  - pages
+  - pages/raw-html
+  - src
+  - analysis.json

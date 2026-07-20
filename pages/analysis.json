@@ -1,0 +1,65 @@
+{
+  "about": {
+    "file": "about.html",
+    "size": 70300,
+    "sections": 3,
+    "images": 2,
+    "links_count": 24
+  },
+  "activities": {
+    "file": "activities.html",
+    "size": 100366,
+    "sections": 18,
+    "images": 52,
+    "links_count": 45
+  },
+  "contact": {
+    "file": "contact.html",
+    "size": 58206,
+    "sections": 4,
+    "images": 1,
+    "links_count": 26
+  },
+  "index": {
+    "file": "index.html",
+    "size": 49162,
+    "sections": 3,
+    "images": 8,
+    "links_count": 26
+  },
+  "lectures": {
+    "file": "lectures.html",
+    "size": 92925,
+    "sections": 1,
+    "images": 23,
+    "links_count": 25
+  },
+  "newsletter-2019-2021": {
+    "file": "newsletter-2019-2021.html",
+    "size": 100280,
+    "sections": 32,
+    "images": 65,
+    "links_count": 25
+  },
+  "newsletter-2022-2024": {
+    "file": "newsletter-2022-2024.html",
+    "size": 160888,
+    "sections": 36,
+    "images": 107,
+    "links_count": 59
+  },
+  "newsletter-archive": {
+    "file": "newsletter-archive.html",
+    "size": 66305,
+    "sections": 15,
+    "images": 27,
+    "links_count": 25
+  },
+  "newsletter": {
+    "file": "newsletter.html",
+    "size": 105521,
+    "sections": 19,
+    "images": 58,
+    "links_count": 44
+  }
+}
