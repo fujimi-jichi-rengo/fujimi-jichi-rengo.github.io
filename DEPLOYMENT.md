@@ -21,7 +21,7 @@
 デプロイ後、以下のURLでサイトが公開されます：
 
 ```
-https://fujimijichirengo-crypto.github.io/
+https://fujimi-jichi-rengo.github.io/
 ```
 
 ### ステップ 3: ローカルテスト（オプション）
@@ -90,4 +90,4 @@ jobs:
 
 ---
 
-**サイトURL**: https://fujimijichirengo-crypto.github.io/
+**サイトURL**: https://fujimi-jichi-rengo.github.io/
