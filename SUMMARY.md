@@ -87,7 +87,7 @@ git push origin main
 ```
 
 ### ステップ 4: サイト公開確認
-- URLにアクセス: https://fujimijichirengo-crypto.github.io/news/
+- URLにアクセス: https://fujimijichirengo-crypto.github.io/
 - 各ページが正常に表示されることを確認
 
 ## 🎯 デザインの特徴
@@ -147,7 +147,7 @@ python3 -m http.server 8000
 ## 📞 サポート情報
 
 - **GitHub リポジトリ**: https://github.com/fujimijichirengo-crypto/news
-- **サイトURL**: https://fujimijichirengo-crypto.github.io/news/
+- **サイトURL**: https://fujimijichirengo-crypto.github.io/
 - **ローカル開発**: README.md を参照
 - **デプロイ**: DEPLOYMENT.md を参照
 

@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const navLinks = document.querySelectorAll('nav a');
     navLinks.forEach(link => {
         const href = link.getAttribute('href');
-        if (currentLocation.endsWith(href) || (currentLocation === '/' && href === '/news/')) {
+        if (currentLocation.endsWith(href) || (currentLocation === '/' && href === '/')) {
             link.style.borderBottom = '2px solid currentColor';
         }
     });
